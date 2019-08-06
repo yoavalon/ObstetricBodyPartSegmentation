@@ -1,5 +1,5 @@
 # ObstetricBodyPartSegmentation
-obstetric ultrasonography body part segmentation
+obstetric ultrasonographic body part segmentation
 
 ![alt text](https://raw.githubusercontent.com/yoavalon/ObstetricBodyPartSegmentation/master/babyExample.png)
 
